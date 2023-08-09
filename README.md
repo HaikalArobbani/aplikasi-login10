@@ -1,7 +1,9 @@
 # aplikasi-login
 Sebuah Aplikasi untuk login website
 
-#Alur Aplikasi
-1. User memaasukan email dan password
-2. Verifikasi email dan password
-3. Login sukses, menampilkan halaman  Home
+Alur Fitur Login:
+1. Memasukkan nama, email, dan password
+2. Memvalidasi masukan.
+3. Memvalidasi pengguna dengan deteksi wajah.
+4. Memasukkan nama ibu untuk validasi.
+5. Menampilkan halaman home.Home
